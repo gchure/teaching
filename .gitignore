@@ -1,0 +1,18 @@
+*.pyc
+__pycache__
+*.DS_store
+*.DS_Store
+*.ai
+*.eps
+*.jpg
+*.tif
+*.png
+*.psd
+*.swp*
+*.aux
+*.log
+*.bbl
+
+
+# Ignore total directories.
+data
