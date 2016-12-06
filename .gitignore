@@ -12,6 +12,7 @@ __pycache__
 *.aux
 *.log
 *.bbl
+*.ipynb-checkpoints
 
 
 # Ignore total directories.
