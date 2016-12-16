@@ -13,7 +13,9 @@ __pycache__
 *.log
 *.bbl
 *.ipynb-checkpoints
+*ipynb-checkpoints
 
 
 # Ignore total directories.
 data
+commented_versions
